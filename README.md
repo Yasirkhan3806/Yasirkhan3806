@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yasirkhan3806
-- 👀 I’m interested in Artificial Intelligence generally and robotics specifically plus web development
+- 👀 I’m interested in Agentic Ai generally and robotics specifically plus web development
 - 🌱 I’m currently learning Full stack Web Development
 
 <!---
